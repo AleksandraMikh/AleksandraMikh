@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Sasha and I'm Python developer. 
+
+🤓 Currently working on my friend's ideas and open for cooperation!
+
+☎ How to reach me: https://t.me/mikhaidoku 
+
 <!--
 **AleksandraMikh/AleksandraMikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
